@@ -1,3 +1,4 @@
+
 # Student PDF Game App
 
 A React application that allows students to upload PDFs, extract text locally, and generate interactive learning content (MCQs, flashcards, fill-in-the-blanks, mini-quizzes) using n8n workflows.
@@ -129,4 +130,8 @@ The built files will be in the `dist` directory.
 ## License
 
 MIT
+
+=======
+# RUC-Hackathon---Interactive-Study-Game
+Interactive Study Game
 
