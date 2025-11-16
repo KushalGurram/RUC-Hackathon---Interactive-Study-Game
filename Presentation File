@@ -1,0 +1,50 @@
+
+## Introduction**
+
+* "Hi everyone, we’re Team StudyArena."
+* "Students today study from long PDFs, dense textbooks, and messy notes — and most of that studying is passive and boring."
+* "We wanted to turn studying into something interactive, fast, and actually enjoyable."
+
+---
+
+## The Problem**
+
+* "Whether it's exams, quizzes, or midterms, students waste hours reading PDFs without retaining information."
+* "There’s no tool that instantly converts *your own study material* into an active learning experience."
+* "So we decided to fix that."
+
+---
+
+## The Solution — StudyArena**
+
+* "StudyArena transforms any uploaded PDF into interactive learning games."
+* "We extract the text locally, send it to our n8n workflow, and generate MCQs, flashcards, fill-in-the-blanks, and mini-quizzes — all based on your PDF."
+* "It’s instant, personalized, and helps you learn much faster."
+
+---
+
+## Live Demo Walkthrough**
+
+* "First, I upload a real PDF — a chapter from a database course."
+* "The app extracts the text *locally*, preserving privacy."
+* "The extracted text goes to n8n, which returns structured game content."
+* "Here’s Level 1: fix the SQL query typos."
+* "Here’s Level 2: writing simple SQL queries"
+* "Here’s Level 3: writing coxplex SQL queries like subqueries and joints"
+* "And here’s a mini-quiz — a quick 5-question challenge generated on the fly."
+
+---
+
+## Impact
+
+* "This turns passive studying into active learning."
+* "It helps students revise faster, remember better, and stay engaged."
+* "Works for PDFs from *any* subject — CS, biology, economics, anything. - for sample we used Database Course Material"
+
+---
+
+## Closing**
+
+* "StudyArena makes studying simple, fast, and fun."
+* "Upload your PDF, and instantly start learning through games."
+* "Thank you — we’re excited to answer your questions."
